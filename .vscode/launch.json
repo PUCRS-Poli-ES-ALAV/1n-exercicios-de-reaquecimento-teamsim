@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "X",
+            "request": "launch",
+            "mainClass": "X",
+            "projectName": "1n-exercicios-de-reaquecimento-teamsim_65056438"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "I",
+            "request": "launch",
+            "mainClass": "I",
+            "projectName": "1n-exercicios-de-reaquecimento-teamsim_65056438"
+        },
+        {
+            "type": "java",
+            "name": "III",
+            "request": "launch",
+            "mainClass": "III",
+            "projectName": "1n-exercicios-de-reaquecimento-teamsim_65056438"
+        },
+        {
+            "type": "java",
+            "name": "IX",
+            "request": "launch",
+            "mainClass": "IX",
+            "projectName": "1n-exercicios-de-reaquecimento-teamsim_65056438"
+        },
+        {
+            "type": "java",
+            "name": "Tarefa2",
+            "request": "launch",
+            "mainClass": "Tarefa2",
+            "projectName": "1n-exercicios-de-reaquecimento-teamsim_65056438"
+        },
+        {
+            "type": "java",
+            "name": "Tarefa4",
+            "request": "launch",
+            "mainClass": "Tarefa4",
+            "projectName": "1n-exercicios-de-reaquecimento-teamsim_65056438"
+        },
+        {
+            "type": "java",
+            "name": "Tarefa6",
+            "request": "launch",
+            "mainClass": "Tarefa6",
+            "projectName": "1n-exercicios-de-reaquecimento-teamsim_65056438"
+        },
+        {
+            "type": "java",
+            "name": "Tarefa8",
+            "request": "launch",
+            "mainClass": "Tarefa8",
+            "projectName": "1n-exercicios-de-reaquecimento-teamsim_65056438"
+        },
+        {
+            "type": "java",
+            "name": "V",
+            "request": "launch",
+            "mainClass": "V",
+            "projectName": "1n-exercicios-de-reaquecimento-teamsim_65056438"
+        },
+        {
+            "type": "java",
+            "name": "VII",
+            "request": "launch",
+            "mainClass": "VII",
+            "projectName": "1n-exercicios-de-reaquecimento-teamsim_65056438"
+        }
+    ]
+}
